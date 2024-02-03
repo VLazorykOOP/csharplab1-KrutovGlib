@@ -38,6 +38,10 @@ static void task2()
     }
 }
 
+static void task3()
+{
+
+}
 static void task4()
 {
     Console.Write("input Date (YYYY-MM-DD) = ");
@@ -87,6 +91,7 @@ static void task6()
 
     Console.WriteLine($"Result of equation = {result}");
 }
+
 Console.WriteLine("Lab 1 ! 10 Variant");
 
 
